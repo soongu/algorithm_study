@@ -1,4 +1,4 @@
-package kr.co.kokono.greedy;
+package kr.co.kokono.part2_greedy;
 
 import java.util.*;
 

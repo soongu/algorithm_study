@@ -1,7 +1,6 @@
-package kr.co.kokono.greedy;
+package kr.co.kokono.part2_greedy;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
